@@ -7,6 +7,7 @@ nav:
 ## Foo
 
 Demo:
+你需要学习更多东西来完善你的文档
 
 ```tsx
 import React from 'react';
